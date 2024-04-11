@@ -1,0 +1,50 @@
+﻿@model List<Movie>
+@{
+}
+
+
+<h2 class="text-center mb-5">List of Movies</h2>
+
+<div class="row mb-5">
+	<div class="col">
+		<a class="btn btn-primary" asp-controller="Movies" asp-action="Create">New Movie</a>
+	</div>
+	<div class="col">
+
+	</div>
+</div>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>MovieName</th>
+			<th>DirectorName</th>
+			<th>Duration</th>
+			<th>ReleaseDate</th>
+			<th>MovieCode</th>
+			<th>ImageFile</th>
+			<th>Action</th>
+		</tr>
+	</thead>
+
+	<tbody>
+		@foreach (var movie in Model)
+		{
+			<tr>
+				<td>@movie.Id</td>
+				<td>@movie.MovieName</td>
+				<td>@movie.DirectorName</td>
+				<td>@(movie.Duration)</td>
+				<td>@movie.ReleaseDate.ToString("MM/dd/yyyy")</td>
+				<td>@(movie.MovieCode)</td>
+				@* <td><img src="file:///@movie.ImageFile" width="100" /></td> *@
+				<td><img src="/movies/@movie.ImageFile" width="50" height="50" alt="profile pic" /></td>
+				<td style="white-space:nowrap">
+					<a class="btn btn-primary btn-sm" asp-controller="Movies" asp-action="Edit"
+						asp-route-id="@movie.Id">Edit</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

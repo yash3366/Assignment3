@@ -1,0 +1,317 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\A3YashP.bundle.scp.css",
+      "PackagePath": "staticwebassets\\A3YashP.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\Saved Pictures\\Dabang.jpeg",
+      "PackagePath": "staticwebassets\\Saved Pictures\\Dabang.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\Saved Pictures\\My photo.jpg",
+      "PackagePath": "staticwebassets\\Saved Pictures\\My photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\movies\\20240407184914415.jpeg",
+      "PackagePath": "staticwebassets\\movies\\20240407184914415.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\movies\\20240407191706111.jpeg",
+      "PackagePath": "staticwebassets\\movies\\20240407191706111.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\movies\\20240407235237965.jpeg",
+      "PackagePath": "staticwebassets\\movies\\20240407235237965.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\movies\\20240408000509370.jpeg",
+      "PackagePath": "staticwebassets\\movies\\20240408000509370.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\movies\\20240408000950747.jpeg",
+      "PackagePath": "staticwebassets\\movies\\20240408000950747.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\movies\\49bd40fe-7dca-4411-810b-b158414f56ab_download.jpeg",
+      "PackagePath": "staticwebassets\\movies\\49bd40fe-7dca-4411-810b-b158414f56ab_download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\movies\\4bfb2820-b333-4ece-b9e2-01b2ab4ce599_Dabang.jpeg",
+      "PackagePath": "staticwebassets\\movies\\4bfb2820-b333-4ece-b9e2-01b2ab4ce599_Dabang.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\movies\\4fc16907-c9cd-4dff-855c-4d137a6092ff_download.jpeg",
+      "PackagePath": "staticwebassets\\movies\\4fc16907-c9cd-4dff-855c-4d137a6092ff_download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\movies\\62400a8c-17ef-45a5-8d8f-771cf4daff33_download (1).jpeg",
+      "PackagePath": "staticwebassets\\movies\\62400a8c-17ef-45a5-8d8f-771cf4daff33_download (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\movies\\6ee890ff-984e-4927-97a9-0c04295898b2_Dabang.jpeg",
+      "PackagePath": "staticwebassets\\movies\\6ee890ff-984e-4927-97a9-0c04295898b2_Dabang.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\patel\\Downloads\\A3YashP\\A3YashP\\A3YashP\\wwwroot\\movies\\e304c316-2617-4741-80a6-75a01d04a1d4_Dabang.jpeg",
+      "PackagePath": "staticwebassets\\movies\\e304c316-2617-4741-80a6-75a01d04a1d4_Dabang.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.A3YashP.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.A3YashP.props",
+      "PackagePath": "build\\A3YashP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.A3YashP.props",
+      "PackagePath": "buildMultiTargeting\\A3YashP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.A3YashP.props",
+      "PackagePath": "buildTransitive\\A3YashP.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

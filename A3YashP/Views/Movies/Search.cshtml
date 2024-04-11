@@ -1,0 +1,39 @@
+﻿@model List<Movie> // Assuming you're passing a list of movies to the view
+@{
+}
+<h2>Search Movies</h2>
+
+<form asp-controller="Movies" asp-action="Search" method="get">
+    <div class="form-group">
+        <label for="searchString">Search:</label>
+        <input type="text" class="form-control" id="searchString" name="searchString">
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+@if (Model != null && Model.Count > 0)
+{
+    <h3>Search Results</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>MovieName</th>
+                <th>DirectorName</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var movie in Model)
+            {
+                <tr>
+                    <td>@movie.MovieName</td>
+                    <td>@movie.DirectorName</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No movies found.</p>
+}
+

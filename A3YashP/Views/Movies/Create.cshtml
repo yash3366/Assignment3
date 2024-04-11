@@ -1,0 +1,73 @@
+﻿@model MovieDto
+@{
+}
+
+
+<div class="row">
+	<div class="col-md-8 mx-auto rounded border p-3">
+		<h2 class="text-center mb-5">New Movie</h2>
+
+
+		<form method="post" enctype="multipart/form-data">
+			<div class="row mb-3">
+				<label class="col-sm-4 col-form-label">MovieName</label>
+				<div class="col-sm-8">
+					<input class="form-control" asp-for="MovieName">
+					<span asp-validation-for="MovieName" class="text-danger"></span>
+				</div>
+			</div>
+
+			<div class="row mb-3">
+				<label class="col-sm-4 col-form-label">DirectorName</label>
+				<div class="col-sm-8">
+					<input class="form-control" asp-for="DirectorName">
+					<span asp-validation-for="DirectorName" class="text-danger"></span>
+				</div>
+			</div>
+
+			<div class="row mb-3">
+				<label class="col-sm-4 col-form-label">Duration</label>
+				<div class="col-sm-8">
+					<textarea class="form-control" asp-for="Duration"></textarea>
+					<span asp-validation-for="Duration" class="text-danger"></span>
+				</div>
+			</div>
+
+			<div class="row mb-3">
+				<label class="col-sm-4 col-form-label">ReleaseDate</label>
+				<div class="col-sm-8">
+					<input type="date" class="form-control" asp-for="ReleaseDate">
+					<span asp-validation-for="ReleaseDate" class="text-danger"></span>
+				</div>
+			</div>
+
+			<div class="row mb-3">
+				<label class="col-sm-4 col-form-label">MovieCode</label>
+				<div class="col-sm-8">
+					<textarea class="form-control" asp-for="MovieCode"></textarea>
+					<span asp-validation-for="MovieCode" class="text-danger"></span>
+				</div>
+			</div>
+
+			<div class="row mb-3">
+				<label class="col-sm-4 col-form-label">Image</label>
+				<div class="col-sm-8">
+					<input class="form-control" asp-for="ImageFile">
+					<span asp-validation-for="ImageFile" class="text-danger"></span>
+				</div>
+			</div>
+
+			<div class="row">
+				<div classs="offset-sm-4 col-sm-4 d-grid">
+					<button type="submit" class="btn btn-primary">Submit</button>
+				</div>
+				<div class="col-sm-4 d-grid">
+					<a class="btn btn-outline-primary" asp-controller="Movies" asp-action="Index" role="button">
+						Cancel
+					</a>
+				</div>
+			</div>
+
+		</form>
+	</div>
+</div>
